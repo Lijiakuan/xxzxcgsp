@@ -608,8 +608,8 @@
       <file leaf-file-name="mybatis-conf.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../src/main/java/mybatis-conf.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="50" column="76" lean-forward="true" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
+            <state relative-caret-position="110">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -713,7 +713,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -766,9 +766,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="162" />
-    <option name="y" value="149" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-141" />
+    <option name="y" value="150" />
     <option name="width" value="1455" />
     <option name="height" value="762" />
   </component>
@@ -999,15 +999,15 @@
       <workItem from="1536107430572" duration="23991000" />
       <workItem from="1536193235801" duration="2970000" />
       <workItem from="1536232242837" duration="21187000" />
-      <workItem from="1537322970405" duration="77259000" />
+      <workItem from="1537322970405" duration="77858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137756000" />
+    <option name="totallyTimeSpent" value="138355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="162" y="149" width="1455" height="762" extended-state="0" />
+    <frame x="-141" y="150" width="1455" height="762" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1498,8 +1498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../src/main/java/mybatis-conf.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="50" column="76" lean-forward="true" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
