@@ -1434,7 +1434,7 @@ SUVORK5CYIJ=
 <w:sz w:val="32"/>
 <w:sz-cs w:val="32"/>
 </w:rPr>
-<w:t>${hb2name}将于${cjcfbeg}至${cjggend}在${tarcountry}${tarcity}举行。根据（来函单位）的通知，拟选派${department}${name}${zhicheng}（${jishudengji}、${jsjjunxian}）等执行任务。</w:t>
+<w:t>${hb2name}将于${cjcfbeg}至${cjggend}在${tarcountry}${tarcity}举行。根据（来函单位）的通知，拟选派${department}${name}${zhicheng}（${jishudengji}、${jsjjunxian}）等执行此任务。</w:t>
 </w:r>
 </w:p>
 <w:p wsp:rsidR="004B4237" wsp:rsidRPr="00B02828" wsp:rsidRDefault="004B4237" wsp:rsidP="004B4237">
